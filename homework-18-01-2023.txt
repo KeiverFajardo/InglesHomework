@@ -1,0 +1,26 @@
+1A
+a
+-Where are you from?
+1-Where can we park?
+2-How old are you?
+3-Does the class finish at 8:00?
+4-Where live do you friends?
+5-Why didn't you answer my email?
+6-Do you often go to the cinema?
+7-What does this word mean?
+8-What time did your friends arrive?
+9-Who are you talking to?
+10-Where were you last night?
+b
+-Where do you live?
+1-Do you have a car?
+2-Where was your brother born?
+3-How does often he phone you?
+4-What does arrive time their flight?
+5-is your girlfriend from Brazil?
+6-How can you speak many languages?
+7-How was the party?
+8-Where did you go last summer?
+9-Is a doctor there here?
+10-Did you to come bus by school?
+1B
